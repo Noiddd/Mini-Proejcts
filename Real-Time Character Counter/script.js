@@ -13,3 +13,5 @@ updateCounter();
 textareaEl.addEventListener("keyup", function () {
   updateCounter();
 });
+
+const x = 23
